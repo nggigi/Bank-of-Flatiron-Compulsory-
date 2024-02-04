@@ -6,11 +6,11 @@ function Signup(){
     <>
         <div>
         <form > 
-        <label>Enter First Name:</label><br></br>
-        <input type="text"  id="name" placeholder='Francis' /><br></br>
-        <label>Enter Last Name:</label><br></br>
-        <input type="text"  id="name" placeholder='Francis' /><br></br>
-        <input type="submit" value="SignIn"/>
+        <label>Add Transaction Type:</label><br></br>
+        <input type="text"  id="name" placeholder='Deposit/ Credit' /><br></br>
+        <label>Enter Transaction id:</label><br></br>
+        <input type="number"  id="name" placeholder='67840D' /><br></br>
+        <input type="submit" value="Add "/>
         </form>
         </div>
      </>
